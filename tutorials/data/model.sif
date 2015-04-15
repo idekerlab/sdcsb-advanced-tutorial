@@ -1,0 +1,9 @@
+Model parent_of ViewModel_1
+Model parent_of ViewModel_2
+Model parent_of ViewModel_3
+ViewModel_1 parent_of Presentation_A
+ViewModel_1 parent_of Presentation_B
+ViewModel_2 parent_of Presentation_C
+ViewModel_3 parent_of Presentation_D
+ViewModel_3 parent_of Presentation_E
+ViewModel_3 parent_of Presentation_F
