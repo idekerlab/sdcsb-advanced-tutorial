@@ -23,3 +23,6 @@ Now you can run the actual examples.  Don't forget to check the IP address of _b
 ```
 
 In this case, you need to open ```http://192.168.59.103``` to access your notebooks.
+
+## Run Cytoscape
+Most of the examples uses [cyREST](http://apps.cytoscape.org/apps/cyrestø) to control Cytoscape form IPython Notebook.  Make sure you are running Cytoscape with cyREST App.
